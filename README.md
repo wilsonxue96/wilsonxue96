@@ -1,6 +1,6 @@
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=timeAuto&text=Hi%20There!-nl-I%20am%20Wilson%20Xue~&textBg=false&fontColor=timeAuto&fontSize=70&theme=transparent" alt="Hi There!-nl-I am Wilson Xue~" title="Hi There!-nl-I am Wilson Xue~"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=timeAuto&text=Hi%20There!-nl-I%20am%20Wilson%20Xue~&textBg=false&fontColor=timeAuto&fontSize=70&theme=dark" alt="Hi There!-nl-I am Wilson Xue~" title="Hi There!-nl-I am Wilson Xue~"/>
 </p>
 
 <p align="center">
@@ -60,5 +60,5 @@ I'm Wilson, a **Digital Integrated Circuit (IC) Designer** based in Shanghai, Ch
 
 <p align="center">
     <!-- Footer Capsule -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Hope%20Your%20Code%20is%20Bug-Free&textBg=false&fontColor=timeAuto&fontSize=60&section=footer&theme=transparent" alt="Hope Your Code is Bug-Free" title="Hope Your Code is Bug-Free"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=Hope%20Your%20Code%20is%20Bug-Free&textBg=false&fontColor=timeAuto&fontSize=60&section=footer&theme=dark" alt="Hope Your Code is Bug-Free" title="Hope Your Code is Bug-Free"/>
 </p>
